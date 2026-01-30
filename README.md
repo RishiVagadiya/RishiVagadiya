@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I am currently working on 3D Gane Developement <br>🖥 Unity Engine Programming <br>🏢 Zoozo Gaming Pvt. Ltd.<br>🥽 Looking For Freelancing Work And Projects
+🔭  I am currently working on 3D Game Developement <br>🖥 Unity Engine Programming <br>🏢 Zoozo Gaming Pvt. Ltd.<br>🥽 Looking For Freelancing Work And Projects
 
 
 ## 🌐 Socials:
