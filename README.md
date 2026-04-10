@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭  I am currently working on 3D Game Developement <br>🖥 Unity Engine Programming <br>🏢 Zoozo Gaming Pvt. Ltd.<br>🥽 Looking For Freelancing Work And Projects
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/risipatel_7?igsh=aHB5MW5seG9qams1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishivagadiya) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rishi Vagadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishivagadiya613@gmail.com) 
 
